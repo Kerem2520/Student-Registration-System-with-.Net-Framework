@@ -1,0 +1,13 @@
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\bin\Debug\NotKayitUygulama.exe.config
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\bin\Debug\NotKayitUygulama.exe
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\bin\Debug\NotKayitUygulama.pdb
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.csproj.AssemblyReference.cache
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.FrmOgrenciDetay.resources
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.FrmOgretmenDetay.resources
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.Properties.Resources.resources
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.csproj.GenerateResource.cache
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.csproj.CoreCompileInputs.cache
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.exe
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.pdb
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.exe.config
+C:\Users\musta\source\repos\NotKayitUygulama\NotKayitUygulama\obj\Debug\NotKayitUygulama.FrmOgrenciGiris.resources
